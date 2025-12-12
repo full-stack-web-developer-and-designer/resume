@@ -1,11 +1,3 @@
-# Resume
-This repository contains my online portfolio with a resume page created with HTML and CSS.
-
-[![Mirnes Glamočić](/mockup-resume.webp)](https://full-stack-web-developer-and-designer.github.io/resume/)
-
-To see more about me please visit [mirnesglamocic.com](http://mirnesglamocic.com)
-
-
 # 🌐 Personal Resume Website
 
 A clean and responsive online resume that showcases professional experience, skills, projects, and contact information in an elegant and easy-to-navigate layout.
@@ -122,7 +114,7 @@ This project is released under the MIT License – free to use and customize.
 
 ---
 
-### 👤 Author
+## 👤 Author
 
 #### Mirnes Glamočić
 🌐 https://mirnesglamocic.com
@@ -131,12 +123,8 @@ This project is released under the MIT License – free to use and customize.
 
 ---
 
-### ⭐ Acknowledgments
+## 🙏 Thank You
 
-Thank you for trying Personal Resume!
-
-Feel free to send suggestions or improvements.
-
----
-
-### ⭐ If you find this project helpful, please give it a star!
+Thank you for taking the time to review my resume.
+I truly appreciate your consideration, and I hope this project provides a clear and accurate representation of my skills, experience, and dedication to professional web development.
+I look forward to the opportunity to contribute my knowledge and value to your team.
